@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyApplication2</string>
+    <string name="jadwal_mahasiswa">Jadwal Mahasiswa</string>
+    <string name="nama_mata_kuliah">Nama Mata Kuliah</string>
+    <string name="pilih_waktu">Pilih Waktu</string>
+    <string name="tambah_jadwal">Tambah Jadwal</string>
+    <string name="masuk_main_activity">Masuk MainActivity</string>
+    <string name="dihapus">Dihapus: %1$s</string>
+    <string name="tombol_ditekan">Tombol ditekan</string>
+    <string name="error_nama_kuliah">Nama mata kuliah harus diisi!</string>
+    <string name="error_pilih_waktu">Silakan pilih waktu terlebih dahulu!</string>
+    <string name="jadwal_ditambahkan">Jadwal berhasil ditambahkan!</string>
+</resources>

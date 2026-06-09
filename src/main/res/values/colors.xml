@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#4F46E5</color>
+    <color name="onPrimaryColor">#FFFFFF</color>
+    <color name="secondaryColor">#64748B</color>
+
+    <color name="navyBlue">#1E3A8A</color>
+    <color name="terracottaOrange">#C2410C</color>
+    <color name="paleBeige">#FDF2F8</color>
+    <color name="md_theme_background">#F8FAFC</color>
+    <color name="md_theme_surface">#FFFFFF</color>
+
+    <!-- Added missing color -->
+    <color name="bg_cream">#FFFDD0</color>
+</resources>
