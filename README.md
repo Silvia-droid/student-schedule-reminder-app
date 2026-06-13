@@ -4,9 +4,9 @@ Android application for managing student schedules and reminder notifications.
 # Application Preview
 ![Home](Home-page.jpeg)
 
-![Add Schedule](add-schedule page.jpeg)
+![Add Schedule](add-schedulepage.jpeg)
 
-![Shedule](schedule page.jpeg)
+![Shedule](schedulepage.jpeg)
 
 Overview
 
