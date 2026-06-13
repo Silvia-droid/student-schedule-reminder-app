@@ -8,7 +8,7 @@ Android application for managing student schedules and reminder notifications.
 
 ![Shedule](schedulepage.jpeg)
 
-Overview
+# Overview
 
 Student Schedule Reminder App is an Android application developed to help students organize schedules and receive reminder notifications.
 
